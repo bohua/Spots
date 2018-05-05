@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+
+    <!-- iPad (Retina) ICON-->
+    <link href="/images/144.png" sizes="144x144" rel="apple-touch-icon">
+
+
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"/>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+
+    <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+
+    <title>{title}</title>
+</head>
+<body>
+    {+bodyContent/}
+</body>
+</html>

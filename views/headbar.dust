@@ -1,0 +1,7 @@
+<div data-role="header" class="page-header">
+    <a class="ui-btn ui-btn-left ui-corner-all ui-icon-bars ui-btn-icon-notext ui-btn-inline head-bar-btn"></a>
+    <div class="ui-btn-right right-btn-group">
+        <a class="ui-btn ui-corner-all ui-icon-gear ui-btn-icon-notext ui-btn-inline head-bar-btn"></a>
+        <a class="ui-btn ui-corner-all ui-icon-user ui-btn-icon-notext ui-btn-inline head-bar-btn"></a>
+    </div>
+</div>

@@ -1,0 +1,29 @@
+{>"layout"/}
+{<bodyContent}
+    <div data-role="page" id="login" class="page">
+
+        <div role="main" class="ui-content login-form">
+            <h1 class="logo-text">SPOT'N RATE</h1>
+
+            <input type="text" name="username" id="username" value="" placeholder="@User Name">
+            <input type="password" name="password" id="password" value="" autocomplete="off" placeholder="Password">
+            <a href="/selectSpot" class="ui-btn login-btn">Login</a>
+
+            <div class="ui-nodisc-icon ui-alt-icon split-btn-wrapper"><!-- Classes added to the wrapper -->
+                 <a class="ui-btn ui-corner-all ui-icon-carat-d ui-btn-icon-notext ui-btn-inline split-btn"></a>
+            </div>
+        </div><!-- /content -->
+
+        <div role="second" class="ui-content external-login-form">
+            <button class="ui-btn facebook-login-btn">Login with Facebook</button>
+            <button class="ui-btn twitter-login-btn">Login with Twitter</button>
+        </div>
+
+        <div role="footer" class="ui-content login-footer">
+            <p class="create-account-link">Create an account</p>
+            <small class="forget-password-link">Forget password?</small>
+        </div>
+    </div>
+{/bodyContent}
+
+

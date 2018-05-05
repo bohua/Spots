@@ -1,0 +1,9 @@
+<div data-role="footer" class="page-footer">
+    <div data-role="navbar" data-iconpos="bottom">
+        <ul>
+            <li><a href="#" data-icon="eye"></a></li>
+            <li><a href="#" data-icon="plus"></a></li>
+            <li><a href="#" data-icon="bullets"></a></li>
+        </ul>
+    </div>
+</div>
